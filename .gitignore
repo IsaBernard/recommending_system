@@ -1,2 +1,5 @@
 **/notebook
 **/data/processed
+**/venv/**
+venv/**
+**/venv
